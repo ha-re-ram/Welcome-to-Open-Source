@@ -84,7 +84,15 @@
         <a href="https://github.com/Sathvik-Shetty-1569">
             <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
             <br />
-            <sub><b>Sathvik Shetty
+            <sub><b>Sathvik Shetty</b></sub>
+        </a>
+    </td>
+
+     <td align="center">
+        <a href="https://github.com/ha-re-ram">
+            <img src="https://avatars.githubusercontent.com/u/148760980?v=4" width="100px;" alt="Ha-re-Ram"/>
+            <br />
+            <sub><b>Hareram Kushwaha</b></sub>
         </a>
     </td>
     
