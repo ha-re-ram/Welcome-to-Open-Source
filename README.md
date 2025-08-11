@@ -5492,5 +5492,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+
+            <td align="center">
+                <a href="https://github.com/ha-re-ram">
+                    <img src="https://avatars.githubusercontent.com/u/148760980?v=4" width="100px;"
+                        alt="Ha-re-Ram" />
+                    <br />
+                    <sub>
+                        <b>Hareram Kushwaha</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
